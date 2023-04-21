@@ -14,6 +14,7 @@ programa
 
 		// Para números pares: variável --> c=2 / enquanto --> c=c+2
 		// Para números antecessores até 0 (onde c = n): variável --> (exclui) / enquanto --> (c>=0); c=c-1
+		// Dobro: variável --> c=1 / enquanto --> c = c*2
 		}
 		
 	}
